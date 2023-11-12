@@ -17,59 +17,6 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 
 ---
 
-## Contents
-
-- [Articles](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#articles)
-- [Blockchains](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#blockchains)
-- [Bots](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#bots)
-- [Comics](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#comics)
-- [DAO Analytics](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#dao-aggregators)
-- [DAO Analytics](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#data-analytics)
-- [DAO Creation](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#dao-creation)
-- [Data Access](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#data-access)
-- [Data Storage](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#data-storage)
-- [Defi DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#defi-daos)
-- [Education](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#education)
-- [Events](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#events)
-- [Finding Work](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#finding-work)
-  - [Bounties](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#bounties)
-  - [Job Boards](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#job-boards)
-- [Funding](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#funding)
-  - [Crowdfunding](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#crowdfunding)
-  - [Grants](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#grants)
-  - [Incubators](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#incubators)
-- [Gaming DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#gaming-daos)
-- [Governance Extensions](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#governance-extensions)
-- [Identity/Reputation](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#identityreputation)
-- [Impact DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#impact-daos)
-- [Insurance](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#insurance)
-- [Intellectual Property](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#insurance)
-- [Investment DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#investment-daos)
-- [Legal](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#legal)
-- [NFT DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#nft-daos)
-- [Notifications](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#notifications)
-- [Payroll](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#payroll)
-- [Personal Planning](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#personal-planning)
-- [Podcasts](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#podcasts)
-- [Publishing](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#publishing)
-- [Project Management](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#project-management)
-- [Real Estate](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#real-estate)
-- [Reddit](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#reddit)
-- [Research-Science](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#research-science)
-- [Scheduling](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#scheduling)
-- [Service DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#service-daos)
-- [Smart Contracts and Development](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#smart-contracts-and-development)
-- [Sports DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#sports-daos)
-- [Social DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#social-daos)
-- [Sybil](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#sybil)
-- [Social Platforms](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#social-platforms)
-- [Token Creation](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#token-creation)
-- [Treasury](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#treasury)
-- [Twitter](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#twitter)
-  - [Influencers](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#influencers)
-  - [Lists to Follow](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#lists-to-follow)
-- [Voting Apps](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#voting-apps)
-
 ## Articles
 
 - [A beginner’s guide to DAOs](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o)
@@ -586,10 +533,6 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 - [RadicalxChange](https://quadraticvote.radicalxchange.org/) - An easy tool to host a quadratic vote.
 - [QuadraticVote.co](https://quadraticvote.co/) - Plural Voting (also known as Quadratic Voting or QV) is a redesigned voting method reflecting the intensity of people's preferences in collective decisions.
 - [Vocdoni](https://aragon.org/vocdoni) - Powered by an auditable, censorship-resistant and anonymous digital voting protocol.
-
-## Contributing
-
-[https://github.com/boilerrat/awesome-decentralized-autonomous-organizations/blob/main/contributing.md](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations/blob/main/contributing.md)
 
 ## Footnotes
 
