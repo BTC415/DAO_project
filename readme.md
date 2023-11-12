@@ -535,7 +535,3 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 - [Vocdoni](https://aragon.org/vocdoni) - Powered by an auditable, censorship-resistant and anonymous digital voting protocol.
 
 ## Footnotes
-
-### License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
